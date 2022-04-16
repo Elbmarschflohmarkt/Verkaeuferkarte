@@ -1,0 +1,373 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+	<title>Hausflohmarkt Elbmarsch</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.leaflet-container {
+		  position: absolute;
+		  top: 0;
+		  bottom: 0;
+		  left: 0;
+		  right: 0;
+		}
+
+	</style>
+
+	
+</head>
+<body>
+
+	<div id="map"></div>
+	
+<script>
+
+	var map = L.map('map').setView([53.417938, 10.367993], 13);	
+
+	var tiles = L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+	}).addTo(map);
+
+	var data = {
+		"type": "FeatureCollection",
+		"name": "verkauefer",
+		"features": [
+						{ "type": "Feature", 
+						"properties": { 
+						"id": 1, 
+						"Adresse": "Heinrichshof 5", 
+						"Verkauft": "Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Sonstiges",  
+						"Nachricht": " Freue mich sehr!",
+						"Ueberdacht": "Ja"
+						}, 
+						"geometry": { "type": "Point", "coordinates": [ 10.4171415700437, 53.3975864530391 ] } },
+						
+						{ "type": "Feature", 
+						"properties": { 
+						"id": 2, 
+						"Adresse": "Elbuferstraße 124", 
+						"Verkauft": "Antikes, Bücher, Frauenkleidung, Haushaltsgeräte/Küche",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+						"geometry": { "type": "Point", "coordinates": [ 10.3585595183708, 53.4186383012204] } },
+						
+						{ "type": "Feature", 
+						"properties": { 
+						"id": 3, 
+						"Adresse": " Elbuferstraße 124a", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": "Freue mich auf jeden einzelnen, bestes Wetter und Danke an den Rest des Orga-Teams!!!",
+						"Ueberdacht": "Ja"
+						}, 
+						"geometry": { "type": "Point", "coordinates": [ 10.3587481862937, 53.4189001899989 ] } },
+						
+						{ "type": "Feature", 
+						"properties": { 
+						"id": 4, 
+						"Adresse": " Kiebitzende 1", 
+						"Verkauft": "Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": "Veganes Essen und veganen Kuchen auf Spendenbasis. Stand wird evtl. überdacht",
+						"Ueberdacht": "Nein"
+						}, 
+						"geometry": { "type": "Point", "coordinates": [ 10.2555358506415, 53.4072569340014 ] } },
+						
+						{ "type": "Feature", 
+						"properties": { 
+						"id": 5, 
+						"Adresse": "Am Deich 20", 
+						"Verkauft": " Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": "  Kleidung in großen Damengrößen",
+						"Ueberdacht": "Ja"
+						}, 
+						"geometry": { "type": "Point", "coordinates": [ 10.374581229829, 53.416371418124 ] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 6, 
+						"Adresse": "Elbuferstraße 99", 
+						"Verkauft": "Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        			"geometry": { "type": "Point", "coordinates": [10.371402139599406, 53.41600295855711] } },
+			
+						{ "type": "Feature",
+						"properties": { 
+						"id": 7, 
+						"Adresse": " Im Bogen 5a", 
+						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        			"geometry": { "type": "Point", "coordinates": [10.37470250646736, 53.41496614914815] } },
+									
+						{ "type": "Feature",
+						"properties": { 
+						"id": 8, 
+						"Adresse": " Elbuferstraße 103a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung",  
+						"Nachricht": "",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.370148485760685, 53.41628075304962] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 9, 
+						"Adresse": " Schwalbenweg 6", 
+						"Verkauft": " Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Ich freue mich sehr und sage nochmals DANKE an euch alle für die tolle Idee und Organisation!",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.36443503951209, 53.41750068042885] } },
+						
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 10, 
+						"Adresse": " Eichholzerstrasse 5", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Bei schlechtem Wetter bauen wir einen Pavillon auf.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.366297985409552, 53.415289028308] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 11, 
+						"Adresse": " Dragweg 1a", 
+						"Verkauft": " Baby-/Kinderkleidung, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.263922494548513, 53.40851933381339] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 12, 
+						"Adresse": " Elbuferstr 22a", 
+						"Verkauft": " Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Ich freue mich auf den Flohmarkt! Werde auch kleine Überraschungen bereit halten für die Besucher.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.388276864626052, 53.410401161232414] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 13, 
+						"Adresse": " Herrenweg 6", 
+						"Verkauft": " Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Wir sind umgezogen und verkaufen viele verschiedene Dinge! Viel Deko 🙈",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.393222706551647, 53.40805840334976] } },
+						
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 14, 
+						"Adresse": " Fasanenweg 3", 
+						"Verkauft": " Antikes, Sonstiges",  
+						"Nachricht": " Tolle Idee! 🤗",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.393222706551647, 53.40805840334976] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 15, 
+						"Adresse": " Elbuferstr. 111", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.425791593839167, 53.3928696727442] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 16, 
+						"Adresse": " Dragweg 7", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.26482931662864, 53.40805824249463] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 17, 
+						"Adresse": " Elbuferstrasse 120", 
+						"Verkauft": " Spielzeug, Bücher, Frauenkleidung, Herrenkleidung",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.359543679704808, 53.41865279362138] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 18, 
+						"Adresse": " Wiesengrund 4", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.346401366501391, 53.39119410827513] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 19, 
+						"Adresse": " Elbuferstraße 148", 
+						"Verkauft": " Baby-/Kinderkleidung, Frauenkleidung, Herrenkleidung",  
+						"Nachricht": "",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.417980265967794, 53.397263010501604] } },
+						
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 20, 
+						"Adresse": " Elbuferstraße 231", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Herrenkleidung, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.334974187894465, 53.419431700753165] } },
+						
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 21, 
+						"Adresse": " Kiebitzende 20", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.254191364091383, 53.405207329053276] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 22, 
+						"Adresse": " Wennereck 2", 
+						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.35315326797961, 53.41578586327275] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 23, 
+						"Adresse": " Elbuferstraße 116b", 
+						"Verkauft": " Spielzeug, Bücher, Frauenkleidung",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.423352430141694, 53.3952366059977] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 24, 
+						"Adresse": " Wennereck 2a", 
+						"Verkauft": " Frauenkleidung, Herrenkleidung, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.353075549476028, 53.4156939906725] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 25, 
+						"Adresse": " Schwinder Straße 11", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.31892009433459, 53.42732313520846] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 26, 
+						"Adresse": " Hagenweg 8", 
+						"Verkauft": " Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.359018795944117, 53.417450020074625] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 27, 
+						"Adresse": " Elbuferstraße 46a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Frauenkleidung, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.382329488804869, 53.41318061256621] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 28, 
+						"Adresse": " Fliederweg 8", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Teilweise überdacht durch Carport.",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.378192813668143, 53.413180048493096] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 29, 
+						"Adresse": " Schwinder Straße 45", 
+						"Verkauft": " Bücher, Frauenkleidung, Sonstiges",  
+						"Nachricht": " Damen Kleidung Große Größen, Schuhe wie neu",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.323430820249724, 53.42379423168578] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 30, 
+						"Adresse": " Am Mühlenberg 1", 
+						"Verkauft": " Antikes, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Deko Landhaus Shabby",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.409612039903859, 53.37070302496238] } },
+						
+						{ "type": "Feature",
+						"properties": { 
+						"id": 31, 
+						"Adresse": " Binnenhagen 19", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Sonstiges",  
+						"Nachricht": "",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.36039126274679, 53.4159001079156] } },
+					]
+			};
+
+	var layerGroup = L.geoJSON(data, {
+		onEachFeature: function (feature, layer) {
+			layer.bindPopup('<h2>'+feature.properties.Adresse+'</h2>'+'<p>'+feature.properties.Verkauft+'</p>'+ 'Stand ist überdacht: '+feature.properties.Ueberdacht+'<p>'+feature.properties.Nachricht+'<\p>');
+		}
+		}).addTo(map);
+
+</script>
+</body>
+</html>
