@@ -366,7 +366,7 @@ var data = {
 						"Nachricht": " ",
 						"Ueberdacht": "Nein"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.26163940445492, 53.41044065191808] } },
+                        "geometry": { "type": "Point", "coordinates": [10.261014348311134, 53.408312001551145] } },
 						
 						{ "type": "Feature",
 						"properties": { 
@@ -387,5 +387,35 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.415359347925923, 53.38900960136588] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 39, 
+						"Adresse": " Weidenstieg 5c", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.256997488559279, 53.40872128361288] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 40, 
+						"Adresse": " Lüneburger Str 49", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.413457161106937, 53.39193992271995] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 41, 
+						"Adresse": " Weidenstieg 6", 
+						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Sämtliche Sachen aus einer Haushaltsauflösung, vieles antik wie zB golden gerahmte alte Bilder Geschirr von Villeroy & Boch, Fürstenberg uvm. <br> Mocca Sammeltassen  <br> Bücher aus Kunst Kultur Politik  <br> Oster- und Weihnachtsdeko  <br> Bidjar Teppich  <br> Lampen  usw.  <br> Kinder DVDs und Kassetten  <br> Urnen Restbestände, biologisch abbaubar, aus bereits aufgegebener Selbstständigkeit würde ich auch anbieten wollen. Zuletzt wurden diese gerne für Haustiere genutzt.  <br> Mein Stand ist teils überdacht (Garage und Auffahrt)",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.257864331622017, 53.40886125400931] } },
 					]
 			}
