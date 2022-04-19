@@ -392,7 +392,7 @@ var data = {
 						"properties": { 
 						"id": 39, 
 						"Adresse": " Weidenstieg 5c", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Sonstiges",  
+						"Verkauft": "Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Sonstiges",  
 						"Nachricht": " ",
 						"Ueberdacht": "Ja"
 						}, 
