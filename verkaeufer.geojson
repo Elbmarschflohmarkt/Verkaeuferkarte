@@ -427,5 +427,15 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.441444229272168, 53.38977879410005] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 43, 
+						"Adresse": " Glosterweg 2", 
+						"Verkauft": " Frauenkleidung, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.317095667629847, 53.425845034078336] } },
 					]
 			}
