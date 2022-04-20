@@ -417,5 +417,15 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.257864331622017, 53.40886125400931] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 42, 
+						"Adresse": " Deichstraße West 12", 
+						"Verkauft": " Baby-/Kinderkleidung, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.441444229272168, 53.38977879410005] } },
 					]
 			}
