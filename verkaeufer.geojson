@@ -477,5 +477,26 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.399225578964078, 53.40343770449769] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 48, 
+						"Adresse": " Elsternweg 5", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Herrenkleidung",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.357923606312426, 53.415078461635765] } },
+                        
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 49, 
+						"Adresse": " Deichstr. West 4a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.336916250118906, 53.41928345799376] } },
 					]
 			}
