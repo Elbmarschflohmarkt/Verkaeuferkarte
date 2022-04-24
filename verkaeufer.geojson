@@ -498,5 +498,55 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.336916250118906, 53.41928345799376] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 50, 
+						"Adresse": " Veilchenweg 12", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Fotoequipment",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.37220881163323, 53.4153460523367] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 51, 
+						"Adresse": " Im Westerfeld 26", 
+						"Verkauft": " Antikes, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.399554846998395, 53.40350435503699] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 52, 
+						"Adresse": " Am Alten Schützenplatz 31", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.408485967539995, 53.391928877660895] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 53, 
+						"Adresse": " Elbuferstraße 233", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.334509092095212, 53.41937483171302] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 54, 
+						"Adresse": " Wennerweg 12", 
+						"Verkauft": " Bücher, Frauenkleidung, Herrenkleidung",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.352072113144763, 53.416623311367296] } },
 					]
 			}
