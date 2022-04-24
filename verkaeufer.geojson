@@ -548,5 +548,15 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.352072113144763, 53.416623311367296] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 55, 
+						"Adresse": " Am Alten Schützenplatz 34", 
+						"Verkauft": " Antikes, Bücher, Frauenkleidung, Sonstiges",  
+						"Nachricht": " Kunst und kreatives",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.407302030893545, 53.39282020272702] } },
 					]
 			}
