@@ -577,7 +577,7 @@ var data = {
 						"Nachricht": " Flohmarkt Kram ;)",
 						"Ueberdacht": "Nein"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.407692829988106, 53.39317598707747] } },
+                        "geometry": { "type": "Point", "coordinates": [10.40768296036679, 53.393551893650226] } },
                         
                         { "type": "Feature",
 						"properties": { 
