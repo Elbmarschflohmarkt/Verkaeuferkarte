@@ -558,5 +558,35 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.407302030893545, 53.39282020272702] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 56, 
+						"Adresse": " Kiebitzende 4", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Falls es regnet, Verkauf in der Garage",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.255074933985098, 53.40707423868731] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 57, 
+						"Adresse": " Am Alten Schützenplatz 28A", 
+						"Verkauft": " Spielzeug, Bücher, Sonstiges",  
+						"Nachricht": " Flohmarkt Kram ;)",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.407692829988106, 53.39317598707747] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 58, 
+						"Adresse": " Wennerweg 10", 
+						"Verkauft": " Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " super Idee,  danke für die Orga",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.352238347159943, 53.41681921971387] } },
 					]
 			}
