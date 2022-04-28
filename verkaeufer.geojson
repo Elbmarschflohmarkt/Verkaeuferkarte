@@ -325,7 +325,7 @@ var data = {
 						"Nachricht": " ",
 						"Ueberdacht": "Ja"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.368890181040603, 53.414521234485896] } },
+                        "geometry": { "type": "Point", "coordinates": [10.368838836578034, 53.41458611809079] } },
 						
 						{ "type": "Feature",
 						"properties": { 
@@ -588,5 +588,25 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.352238347159943, 53.41681921971387] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 59, 
+						"Adresse": " Elbuferstraße 227", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Haushaltsgeräte/Küche, Herrenkleidung",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.335791496921882, 53.41908882208047] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 60, 
+						"Adresse": " Rieges Hoff 23a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Sonstiges",  
+						"Nachricht": " Kinderbett/Reisebett",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.368952830538987, 53.41452097294598] } },
 					]
 			}
