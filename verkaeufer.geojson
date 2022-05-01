@@ -608,5 +608,15 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.368952830538987, 53.41452097294598] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 61, 
+						"Adresse": " Elbuferstraße 96", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.368485509494814, 53.417331540093954] } },
 					]
 			}
