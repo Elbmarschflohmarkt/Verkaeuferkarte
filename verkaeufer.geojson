@@ -618,5 +618,15 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.368485509494814, 53.417331540093954] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 62, 
+						"Adresse": " Elbstorfer Str. 40", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.284573688149477, 53.42028437692208] } },
 					]
 			}
