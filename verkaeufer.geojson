@@ -628,5 +628,15 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.284573688149477, 53.42028437692208] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 63, 
+						"Adresse": " Eichholzer Straße 5c", 
+						"Verkauft": " Spielzeug, Bücher, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Gartenartikel, Schallplatten und Zubehör",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.366630941408026, 53.41496536725337] } },
 					]
 			}
