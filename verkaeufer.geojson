@@ -638,5 +638,25 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.366630941408026, 53.41496536725337] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 64, 
+						"Adresse": " Bütlinger Straße 38", 
+						"Verkauft": " Antikes, Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Gemeinschaftsstand bei der Alten Schule",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.411104676502234, 53.371642852895036] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 65, 
+						"Adresse": " Neuer Hagen 23", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.357066238799035, 53.41691017597175] } },
 					]
 			}
