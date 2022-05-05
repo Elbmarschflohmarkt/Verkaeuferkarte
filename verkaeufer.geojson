@@ -658,5 +658,15 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.357066238799035, 53.41691017597175] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 66, 
+						"Adresse": " Sandhagenweg 20", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.360594837386904, 53.41477873433894] } },
 					]
 			}
