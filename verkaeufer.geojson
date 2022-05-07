@@ -121,7 +121,8 @@ var data = {
 						"Nachricht": " Ich freue mich auf den Flohmarkt! Werde auch kleine Überraschungen bereit halten für die Besucher.",
 						"Ueberdacht": "Ja"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.388276864626052, 53.410401161232414] } },
+                        "geometry": { "type": "Point", "coordinates": [10.387975790454046, 53.41054104114202] } },
+                        
 						
 						{ "type": "Feature",
 						"properties": { 
@@ -668,5 +669,55 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.360594837386904, 53.41477873433894] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 67, 
+						"Adresse": " Brackweg 20", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.38578792499777, 53.410659068642815] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 68, 
+						"Adresse": " Deichstraße West 1", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.33661535218734, 53.41975843362478] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 69, 
+						"Adresse": " Hagenweg 26", 
+						"Verkauft": " Antikes, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Hier darf auch musiziert werden! 🎼😉",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.357299426901763, 53.41562637286299] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 70, 
+						"Adresse": " Schultenweg 7", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.282802982611408, 53.421501262341145] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 71, 
+						"Adresse": " Eichholzer Straße 17", 
+						"Verkauft": " Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Dekorationsartikel, Garten- und Pflanzenartikel, Puzzle, Spiele Bei schlechtem Wetter im Pavillon.",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.364347743118312, 53.4123489834403] } },
 					]
 			}
