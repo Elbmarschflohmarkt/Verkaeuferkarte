@@ -231,7 +231,7 @@ var data = {
 						"properties": { 
 						"id": 23, 
 						"Adresse": " Elbuferstraße 116b", 
-						"Verkauft": " Spielzeug, Bücher, Frauenkleidung",  
+						"Verkauft": " Spielzeug, Bücher, Frauenkleidung, Baby-/Kinderkleidung, Sonstiges",  
 						"Nachricht": "",
 						"Ueberdacht": "Ja"
 						}, 
