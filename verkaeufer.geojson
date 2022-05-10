@@ -740,5 +740,55 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.360154040298307, 53.41765461470671] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 74, 
+						"Adresse": " Elbuferstraße 241", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Sonstiges",  
+						"Nachricht": " Bei Regen öffne ich die Tür zur Straße hin und baue in der Werkstatt auf.",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.333483586264785, 53.419970934394456] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 75, 
+						"Adresse": " Eichenweg 1a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Sonstiges",  
+						"Nachricht": " Wir freuen uns auf einen sonnigen Tag mit freundlichen Leuten und bieten nebenbei Kleidung/ Spielzeug  ( im Alter von 8-15 Jahre) und sonstigen Dingen aus unserem Haushalt.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.258122554076149, 53.40933701592134] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 76, 
+						"Adresse": " Elsternweg 3", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.357739217361766, 53.41481961902049] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 77, 
+						"Adresse": " Hagenweg 8", 
+						"Verkauft": " Spielzeug, Bücher, Sonstiges",  
+						"Nachricht": " Ist es auch erlaubt Waffeln, Popcorn oder so anzubieten?",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.358828784788654, 53.41750659835157] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 78, 
+						"Adresse": " Elbstorfer Str. 101", 
+						"Verkauft": " Sonstiges",  
+						"Nachricht": " Gebohrte Halbedelsteine als Kettenanhänger z.T. mit Lederband für 1- 2 €. Edelstahlschmuck, Ringe, Ketten für 1-2€ Alles Restbestände aus unserem früheren Geschäft. Allerlei aus dem Nachlass meiner Eltern.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.295637317181663, 53.42209518757637] } },
 					]
 			}
