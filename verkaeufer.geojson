@@ -821,6 +821,36 @@ var data = {
 					}, 
 					"geometry": { "type": "Point", "coordinates": [10.360859884761183, 53.417980040855724] } },
 					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 82, 
+					"Adresse": " Bgm.-Soetebier-Str. 32", 
+					"Verkauft": " Elektronik, Frauenkleidung, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.421930593215995, 53.39329801049538] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 83, 
+					"Adresse": " Elbuferstr 73a", 
+					"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.376557638963696, 53.41413215399033] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 84, 
+					"Adresse": " Hagenweg 6a", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Haushaltsgeräte/Küche",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.359094357737701, 53.41766272344361] } },
+					
 					
 				]
 		}
