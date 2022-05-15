@@ -851,6 +851,36 @@ var data = {
 					}, 
 					"geometry": { "type": "Point", "coordinates": [10.359094357737701, 53.41766272344361] } },
 					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 85, 
+					"Adresse": " Elbuferstr. 87", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.373705368614946, 53.41540992928895] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 86, 
+					"Adresse": " Elbuferstr. 87", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung",  
+					"Nachricht": " 3-4 verschiedene Verkäufer",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.373680530423671, 53.41537090128345] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 87, 
+					"Adresse": " Deichstrasse West 4", 
+					"Verkauft": " Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Nein"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.337029926323881, 53.41924737780387] } },
+					
 					
 				]
 		}
