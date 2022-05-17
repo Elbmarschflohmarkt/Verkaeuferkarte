@@ -881,6 +881,16 @@ var data = {
 					}, 
 					"geometry": { "type": "Point", "coordinates": [10.337029926323881, 53.41924737780387] } },
 					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 88, 
+					"Adresse": " Im westerfeld 12", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung",  
+					"Nachricht": " ",
+					"Ueberdacht": "Nein"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.40099935472348, 53.40555094379489] } },
+					
 					
 				]
 		}
