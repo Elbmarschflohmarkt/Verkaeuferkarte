@@ -891,6 +891,16 @@ var data = {
 					}, 
 					"geometry": { "type": "Point", "coordinates": [10.40099935472348, 53.40555094379489] } },
 					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 89, 
+					"Adresse": " Lüneburger Straße 28", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Frauenkleidung, Herrenkleidung, Sonstiges",  
+					"Nachricht": " Bei mir gibt es zum Teil auch Neuware. Originale verschlossene Verpackung",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.410208885569935, 53.39612721109318] } },
+					
 					
 				]
 		}
