@@ -901,6 +901,85 @@ var data = {
 					}, 
 					"geometry": { "type": "Point", "coordinates": [10.410208885569935, 53.39612721109318] } },
 					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 90, 
+					"Adresse": " Lüneburger Str 59", 
+					"Verkauft": " Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Nein"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.414175000685159, 53.39093562284886] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 91, 
+					"Adresse": " Elbuferstraße 109", 
+					"Verkauft": " Baby-/Kinderkleidung, Bücher, Elektronik, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.426384184755365, 53.39308426461269] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 92, 
+					"Adresse": " Lüneburger Str. 88a", 
+					"Verkauft": " Antikes, Spielzeug, Bücher, Elektronik",  
+					"Nachricht": " Altes Puppenstuben-Zubehör, Puppenstubenmöbel, Bücher",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.415448583688857, 53.38832569081679] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 93, 
+					"Adresse": " Elbuferstr 46", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Nein"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.38218936409251, 53.41305845485581] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 94, 
+					"Adresse": " Neuer Hagen 10", 
+					"Verkauft": " Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.356689855989062, 53.415570630495026] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 95, 
+					"Adresse": " Elbuferstrasse 199", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Sonstiges",  
+					"Nachricht": " Vielen Dank an das Organisationsteam!",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.342561340612118, 53.418409237282] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 96, 
+					"Adresse": " Elbuferstraße 201a", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.342130165961565, 53.418125190362026] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 97, 
+					"Adresse": " Im Westerfeld 41a", 
+					"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.399722461919222, 53.40295237085193] } },
 					
 				]
 		}
