@@ -981,5 +981,35 @@ var data = {
 					}, 
 					"geometry": { "type": "Point", "coordinates": [10.399722461919222, 53.40295237085193] } },
 					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 98, 
+					"Adresse": " Erlenring 9", 
+					"Verkauft": " Bücher, Frauenkleidung, Herrenkleidung, Sonstiges",  
+					"Nachricht": " Geschirr",
+					"Ueberdacht": "Nein"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.421789571244181, 53.39252872235286] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 99, 
+					"Adresse": " Am alten Schützenplatz 33", 
+					"Verkauft": " Elektronik, Frauenkleidung, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Nein"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.408254244539155, 53.392024130696434] } },
+					
+					{ "type": "Feature",
+					"properties": { 
+					"id": 100, 
+					"Adresse": " Meyns Hof 15c", 
+					"Verkauft": " Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+					"Nachricht": " ",
+					"Ueberdacht": "Ja"
+					}, 
+					"geometry": { "type": "Point", "coordinates": [10.314044686234968, 53.424340134321746] } },
+					
 				]
 		}
