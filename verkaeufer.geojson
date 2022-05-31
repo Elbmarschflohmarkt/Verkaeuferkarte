@@ -1081,5 +1081,74 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.346553403493564, 53.41876179021229] } },
                         
+                        { "type": "Feature",
+						"properties": { 
+						"id": 108, 
+						"Adresse": " Elbuferstraße 199A", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Sonstiges",  
+						"Nachricht": " Kommt gerne vorbei wir freuen uns. Danke für die Organisation.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.342701817059206, 53.41854822478915] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 109, 
+						"Adresse": " Elbuferstraße 109", 
+						"Verkauft": " Antikes, Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.36937785837779, 53.41670705479139] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 110, 
+						"Adresse": " Elbuferstraße 39A", 
+						"Verkauft": " Antikes, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.383075949281132, 53.412031236958036] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 111, 
+						"Adresse": " Stover Straße 75", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.383075949281132, 53.412031236958036] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 112, 
+						"Adresse": " Schwinder Str. 6", 
+						"Verkauft": " Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Autozubehör, Geschirr, Bettwäsche, Tischdecken, Schiffsmodelle mit Fernsteuerung, Trainingsgeräte, Fahrrad und div.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.317256451466303, 53.42756717658499] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 113, 
+						"Adresse": " Elbuferstr. 154a", 
+						"Verkauft": " Baby-/Kinderkleidung, Bücher, Elektronik, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.350602741208565, 53.41859807484569] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 114, 
+						"Adresse": " Im Westerfeld 27", 
+						"Verkauft": " Bücher, Frauenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.400962209826911, 53.40403765643696] } },
 					]
 			}
