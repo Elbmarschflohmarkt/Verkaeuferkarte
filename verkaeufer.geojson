@@ -776,7 +776,7 @@ var data = {
 						"id": 77, 
 						"Adresse": " Hagenweg 8", 
 						"Verkauft": " Spielzeug, Bücher, Sonstiges",  
-						"Nachricht": " Ist es auch erlaubt Waffeln, Popcorn oder so anzubieten?",
+						"Nachricht": " ",
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.358828784788654, 53.41750659835157] } },
