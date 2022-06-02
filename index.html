@@ -44,7 +44,7 @@
 
 	var data = [data]
 
-	var layerGroup = L.geoJSON(data, {
+	var anmeldungen_einzel = L.geoJSON(data, {
 		onEachFeature: function (feature, layer) {
 			layer.bindPopup('<h2>'+feature.properties.Adresse+'</h2>'+'<p>'+feature.properties.Verkauft+'</p>'+ 'Stand ist überdacht: '+feature.properties.Ueberdacht+'<p>'+feature.properties.Nachricht+'<\p>');
 		}

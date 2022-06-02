@@ -1150,5 +1150,65 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.400962209826911, 53.40403765643696] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 115, 
+						"Adresse": " Stover Elbdeich SchützenhalleSchwinde-TagderoffenenTür", 
+						"Verkauft": " Antikes, Spielzeug, Bücher, Frauenkleidung, Sonstiges",  
+						"Nachricht": " Zusätzlich zu mehreren Verkäufern",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.309791974187087, 53.430522610474775] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 116, 
+						"Adresse": " Hagenweg 8", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.358983991946237, 53.4174127776266] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 117, 
+						"Adresse": " Rottorfer weg 8a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.30177181982908, 53.35894239744996] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 118, 
+						"Adresse": " Lüneburger str. 94", 
+						"Verkauft": " Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " Alles mögliche ist dabei",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.41646594982691, 53.3876917616927] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 119, 
+						"Adresse": " Fahrenholzer Str. 17", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.299575087633883, 53.365261179703396] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 120, 
+						"Adresse": " Wiesenstr. 15", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Wir stehen hier mit 2 Tischen/Haushalten, da eine Freundin mit ihren Flohmarktsachen noch zu uns kommt.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.414629713041004, 53.397495765922436] } },
 					]
 			}
