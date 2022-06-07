@@ -530,15 +530,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.408485967539995, 53.391928877660895] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 53, 
-						"Adresse": " Elbuferstraße 233", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Herrenkleidung, Sonstiges",  
-						"Nachricht": " ",
-						"Ueberdacht": "Nein"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.334509092095212, 53.41937483171302] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -570,15 +561,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.255074933985098, 53.40707423868731] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 57, 
-						"Adresse": " Am Alten Schützenplatz 28A", 
-						"Verkauft": " Spielzeug, Bücher, Sonstiges",  
-						"Nachricht": " Flohmarkt Kram ;)",
-						"Ueberdacht": "Nein"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.40768296036679, 53.393551893650226] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -1210,5 +1192,156 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.414629713041004, 53.397495765922436] } },
+                        
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 121, 
+						"Adresse": " Tulpenweg 14", 
+						"Verkauft": " Spielzeug, Bücher, Elektronik, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Haushaltsauflösung",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.382230658773723, 53.410164155458276] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 122, 
+						"Adresse": " Wiesenstrasse 2a", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.412355063289795, 53.39555300641183] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 123, 
+						"Adresse": " Schwinderstraße 38", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.322664411302705, 53.42356762013216] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 124, 
+						"Adresse": " Eichenallee 13", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Sonstiges",  
+						"Nachricht": " Es wird frische Waffeln und Kratzeis geben. <br>Extra zu verschenken Ecke! <br>Deko für drinnen/draussen, Engelsfiguren, Büsten, Kitchen Aid Maschine, Kinderfahrrad, Cds, hochwertige Lampen incl. Leuchtmittel. <br>Wir freuen uns auf euch.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.417499199404242, 53.3919407305187] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 125, 
+						"Adresse": " Im Westerfeld 8", 
+						"Verkauft": " Frauenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.401843539056376, 53.405727321465235] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 126, 
+						"Adresse": " Fliederweg 2a", 
+						"Verkauft": " Bücher, Frauenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.378981403755864, 53.41374151050155] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 127, 
+						"Adresse": " Elbstorfer Str. 103", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.29592675561747, 53.42209841987835] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 128, 
+						"Adresse": " Im Westerfeld 10a", 
+						"Verkauft": " Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.401225049500056, 53.40570878924073] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 129, 
+						"Adresse": " Wennerweg 10A", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Sonstiges",  
+						"Nachricht": " CDs, MCs, LPs",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.35219163852177, 53.41677865683045] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 130, 
+						"Adresse": " Fliederweg 8a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.378178813033639, 53.41300402963161] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 131, 
+						"Adresse": " Fahrenholzer Str. 35", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.30401538444403, 53.36304482924473] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 132, 
+						"Adresse": " Elbuferstraße 42", 
+						"Verkauft": " Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.383144494944489, 53.41244448900966] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 133, 
+						"Adresse": " Wiesenstraße 18", 
+						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Herrenkleidung",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.415450885855499, 53.39754596598793] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 134, 
+						"Adresse": " Wennerweg 15a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.353240478335543, 53.41644399657916] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 135, 
+						"Adresse": " Wiesenstrasse 22", 
+						"Verkauft": " Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.415907118447043, 53.39783575348957] } },
 					]
 			}
