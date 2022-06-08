@@ -1343,5 +1343,75 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.415907118447043, 53.39783575348957] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 136, 
+						"Adresse": " Im Rehmen, 3 ImRehmen,3", 
+						"Verkauft": " Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Gläser, Bierkrüge, Hundezubehör, handgefertigter Natursteinschmuck, Nippes",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.412890392040492, 53.369461003808894] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 137, 
+						"Adresse": " Saatlandring 13", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.262968590925862, 53.40854047855765] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 138, 
+						"Adresse": " Neuer Hagen 36", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.358815549467932, 53.41803603026843] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 139, 
+						"Adresse": " Herrenweg 12", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " Ich weiß noch nicht ob mein Stand überdacht ist, kommt auf das Wetter drauf! an",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.393982247229484, 53.40731587478402] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 140, 
+						"Adresse": " Wennerweg 29", 
+						"Verkauft": " Spielzeug, Bücher, Elektronik, Frauenkleidung, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.352517836277206, 53.41558987469329] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 141, 
+						"Adresse": " Brackweg 2b", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.39194715838513, 53.40710391787048] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 142, 
+						"Adresse": " Rosenweg 2", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Haushaltsgeräte/Küche, Sonstiges",  
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.382963607559832, 53.41151758859669] } },
 					]
 			}
