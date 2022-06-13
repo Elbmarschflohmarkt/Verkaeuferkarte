@@ -1380,8 +1380,8 @@ var data = {
 						"id": 139, 
 						"Adresse": " Herrenweg 12", 
 						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
-						"Nachricht": " Ich weiß noch nicht ob mein Stand überdacht ist, kommt auf das Wetter drauf! an",
-						"Ueberdacht": "Ja"
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.393982247229484, 53.40731587478402] } },
                         
@@ -1404,16 +1404,7 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.39194715838513, 53.40710391787048] } },
-                        
-                        { "type": "Feature",
-						"properties": { 
-						"id": 142, 
-						"Adresse": " Rosenweg 2", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Haushaltsgeräte/Küche, Sonstiges",  
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.382963607559832, 53.41151758859669] } },
+                    
                         
                         { "type": "Feature",
 						"properties": { 
@@ -1575,5 +1566,24 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.410806987377725, 53.39337192982096] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 159, 
+						"Adresse": " Lüneburger Straße 50", 
+						"Verkauft": " Baby-/Kinderkleidung, Frauenkleidung",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.411711557296085, 53.39290519562769] } },
 					]
 			}
