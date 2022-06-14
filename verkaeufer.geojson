@@ -2348,5 +2348,25 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.346167793169036, 53.418398784924555] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 201, 
+						"Adresse": " Am Deich 15a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.373431364899908, 53.416242008855534] } },
+                        
 					]
 			}
