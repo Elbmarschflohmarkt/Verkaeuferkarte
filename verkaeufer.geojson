@@ -143,7 +143,7 @@ var data = {
 						"Nachricht": " Tolle Idee! 🤗",
 						"Ueberdacht": "Nein"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.393222706551647, 53.40805840334976] } },
+                        "geometry": { "type": "Point", "coordinates": [10.358861678992717, 53.41580667505044] } },
 						
 						{ "type": "Feature",
 						"properties": { 
@@ -286,17 +286,7 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.378192813668143, 53.413180048493096] } },
-						
-						{ "type": "Feature",
-						"properties": { 
-						"id": 29, 
-						"Adresse": " Schwinder Straße 45", 
-						"Verkauft": " Bücher, Frauenkleidung, Sonstiges",  
-						"Nachricht": " Damen Kleidung Große Größen, Schuhe wie neu",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.323430820249724, 53.42379423168578] } },
-						
+												
 						{ "type": "Feature",
 						"properties": { 
 						"id": 30, 
@@ -337,16 +327,6 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.416650018426418, 53.39150048037058] } },
-						
-						{ "type": "Feature",
-						"properties": { 
-						"id": 34, 
-						"Adresse": " Schwinder Str. 45", 
-						"Verkauft": " Bücher, Frauenkleidung, Sonstiges",  
-						"Nachricht": " Deko, Schuhe",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.323347597546089, 53.42375074682784] } },
 						
 						
 						{ "type": "Feature",
@@ -1464,7 +1444,7 @@ var data = {
 						"Nachricht": " ",
 						"Ueberdacht": "Ja"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.313710778938193, 53.42374473714424] } },
+                        "geometry": { "type": "Point", "coordinates": [10.313702258050172, 53.42403701241793] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -1585,5 +1565,214 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.411711557296085, 53.39290519562769] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 160, 
+						"Adresse": " Elbuferstr. 54", 
+						"Verkauft": " Spielzeug, Bücher, Frauenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.380641958589496, 53.41388981803093] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 161, 
+						"Adresse": " Elbuferstraße 64", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.37863897094406, 53.41491633266788] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 162, 
+						"Adresse": " Elbuferstr 108", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.364348526721697, 53.418747255274404] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 163, 
+						"Adresse": " am deich 7", 
+						"Verkauft": " Bücher, Frauenkleidung, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.377114091524069, 53.41529157878447] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 164, 
+						"Adresse": " Meyns Hof 17a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " Kinderbücher, Esszimmertisch",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.31371566822975, 53.42374132631142] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 165, 
+						"Adresse": " Kiebitzende 19A", 
+						"Verkauft": " Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.25596454206676, 53.40454699826142] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 166, 
+						"Adresse": " Erlenring 1a", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.419953624191534, 53.3933068028032] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 167, 
+						"Adresse": " Elbuferstraße 181a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.408161180204592, 53.40389210724335] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 168, 
+						"Adresse": " Auf den Höfen 8", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Werkzeug",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.424496229187062, 53.36777189244932] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 169, 
+						"Adresse": " Am Redder 10", 
+						"Verkauft": " Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.334926947580623, 53.41786150432102] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 170, 
+						"Adresse": " Schlaugenweg 3f", 
+						"Verkauft": " Frauenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " DVDs, deko,....",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.33904444135766, 53.363466089287286] } },
 					]
 			}
