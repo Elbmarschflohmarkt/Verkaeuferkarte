@@ -2081,7 +2081,8 @@ var data = {
 						"Nachricht": " ",
 						"Ueberdacht": "Ja"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.351413939540738, 53.41564442063864] } },
+                        "geometry": { "type": "Point", "coordinates": [10.352335603138613, 53.41604403181705] } },
+    
                         
                         { "type": "Feature",
 						"properties": { 
