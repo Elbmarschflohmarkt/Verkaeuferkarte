@@ -2368,7 +2368,8 @@ var data = {
 						"Nachricht": " Es handelt sich hierbei um diverse Anbieter und Stände der Pächter des Freizeit- und Campingpark Tespe mit unterschiedlichstem Angebot. Parkmöglichkeiten vorhanden.",
 						"Ueberdacht": "Nein"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.400154396172887, 53.39529524857079] } },
+                        "geometry": { "type": "Point", "coordinates": [10.403342522494329, 53.39568465632234] } },
+                        
                         
                         { "type": "Feature",
 						"properties": { 
