@@ -1116,9 +1116,9 @@ var data = {
                         { "type": "Feature",
 						"properties": { 
 						"id": 115, 
-						"Adresse": " Stover Elbdeich SchützenhalleSchwinde-TagderoffenenTür", 
+						"Adresse": " Stover Elbdeich Schützenhalle Schwinde - Tag der offenen Tür", 
 						"Verkauft": " Antikes, Spielzeug, Bücher, Frauenkleidung, Sonstiges",  
-						"Nachricht": " Zusätzlich zu mehreren Verkäufern",
+						"Nachricht": "Zusätzlich zu mehreren Verkäufern findet ein Tag der offenen Tür statt! <br> - Jung und Alt dürfen gerne in den Schießsport reinschnuppern <br> - Für das leibliche Wohl wird mit Getränken, Bratwurst und Waffeln gesorgt",
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.309791974187087, 53.430522610474775] } },
@@ -2312,24 +2312,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.410515333074189, 53.39660875748227] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 199, 
-						"Adresse": " Blumenstrasse 7", 
-						"Verkauft": " Antikes, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",
-                        "vk_Antikes": "True",
-                        "vk_BabyKinderkleidung": "False",
-                        "vk_Spielzeug": "True",
-                        "vk_Buecher": "False",
-                        "vk_Elektronik": "True",
-                        "vk_Frauenkleidung": "True",
-                        "vk_HaushaltKueche": "True",
-                        "vk_Herrenkleidung": "False",
-                        "vk_Sonstiges": "True",
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.418004119376956, 53.38864170329427] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -2368,6 +2350,139 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.373431364899908, 53.416242008855534] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 202, 
+						"Adresse": " Niedersachsenring 35", 
+						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "True",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Es handelt sich hierbei um diverse Anbieter und Stände der Pächter des Freizeit- und Campingpark Tespe mit unterschiedlichstem Angebot. Parkmöglichkeiten vorhanden.",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.400154396172887, 53.39529524857079] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 203, 
+						"Adresse": " Drennhaeuser Weg 2", 
+						"Verkauft": " Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Dekosachen, Tischdecken, Bilderrahmen, Übertöpfe",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.271890336838522, 53.417582554604394] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 204, 
+						"Adresse": " Eichholzer Str 9", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Angelzubehör, Werkzeug, Baumaschinen, Roller und Zubehör.",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.365129202392271, 53.413483944233874] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 205, 
+						"Adresse": " Fasanenweg 2", 
+						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Elektronik, Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "True",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.3580925546591, 53.41540817620787] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 206, 
+						"Adresse": " Elbuferstraße 134", 
+						"Verkauft": " Antikes, Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "True",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Wir haben unsere Scheune und den Dachboden aufgeräumt Kommt gerne vorbei!!",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.355555853763963, 53.418771982217706] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 207, 
+						"Adresse": " Meyns Hof 17g", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.314734529719983, 53.42370919340749] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 208, 
+						"Adresse": " Winsener Straße 16a", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.261821134632935, 53.410872392624306] } },
                         
 					]
 			}
