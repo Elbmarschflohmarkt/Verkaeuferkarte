@@ -411,16 +411,6 @@ var data = {
                         
                         { "type": "Feature",
 						"properties": { 
-						"id": 43, 
-						"Adresse": " Glosterweg 2", 
-						"Verkauft": " Frauenkleidung, Herrenkleidung, Sonstiges",  
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.317095667629847, 53.425845034078336] } },
-                        
-                        { "type": "Feature",
-						"properties": { 
 						"id": 44, 
 						"Adresse": " Stover elbdeich 4b", 
 						"Verkauft": " Antikes, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
