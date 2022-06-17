@@ -2990,7 +2990,7 @@ var data = {
                         
                         { "type": "Feature",
 						"properties": { 
-						"id": 234, 
+						"id": 236, 
 						"Adresse": " Elbuferstr. 188", 
 						"Verkauft": " Antikes, Elektronik, Sonstiges",
                         "vk_Antikes": "True",
@@ -3006,6 +3006,25 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.403942072864197, 53.406390908654515] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 237, 
+						"Adresse": " Birkenallee 11", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.364305414025745, 53.41527807928682] } },
                         
                         
 					]
