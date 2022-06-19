@@ -62,15 +62,6 @@ var data = {
 						}, 
                         			"geometry": { "type": "Point", "coordinates": [10.371402139599406, 53.41600295855711] } },
 			
-						{ "type": "Feature",
-						"properties": { 
-						"id": 7, 
-						"Adresse": " Im Bogen 5a", 
-						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
-						"Nachricht": "",
-						"Ueberdacht": "Ja"
-						}, 
-                        			"geometry": { "type": "Point", "coordinates": [10.37470250646736, 53.41496614914815] } },
 									
 						{ "type": "Feature",
 						"properties": { 
@@ -3329,6 +3320,177 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.369933986430983, 53.41629116104356] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 254, 
+						"Adresse": " Lüneburger Str. 12", 
+						"Verkauft": " Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.411443493102988, 53.39985398379062] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 255, 
+						"Adresse": " Hein-Block-Str. 9", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.263594905234873, 53.40697300720267] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 256, 
+						"Adresse": " Blumenstrasse 49", 
+						"Verkauft": " Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.424778026882239, 53.393601040871815] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 257, 
+						"Adresse": " Eichenweg 6a", 
+						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "True",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Div. aus Haushaltsauflösung; antikes Geschirr, Gläser, Tischdecken, antike Tontöpfe, div. Tiptoy",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.257589607341318, 53.41013560984533] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 258, 
+						"Adresse": " Winsener Straße 29", 
+						"Verkauft": " Baby-/Kinderkleidung, Bücher, Frauenkleidung, Haushaltsgeräte/Küche",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " Dekorationsartikel, Babyausstattung, 1 Bettgestell, 2 Lattenroste",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.263162705594752, 53.41349897019885] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 259, 
+						"Adresse": " Blumenstraße 8", 
+						"Verkauft": " Antikes, Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "True",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.41851922018557, 53.388571621273655] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 260, 
+						"Adresse": " Lüneburger Str. 30", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Parken auf dem Grundstück ist NICHT möglich.  Zuwegung nur zu Fuß von der Lüneburger Str.  Aus möglich.",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.409551264163365, 53.3952726203368] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 261, 
+						"Adresse": " Heinrichshof  5", 
+						"Verkauft": " Baby-/Kinderkleidung, Haushaltsgeräte/Küche, Frauenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.416995481610904, 53.39760811085324] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 262, 
+						"Adresse": " Heinrichshof  5", 
+						"Verkauft": " Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": "",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.417057507107465, 53.397663921468435] } },
                         
 					]
 			}
