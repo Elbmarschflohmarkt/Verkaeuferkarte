@@ -2075,24 +2075,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.421431816597883, 53.39390241025332] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 188, 
-						"Adresse": " Binnenhagen 21", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung",
-                        "vk_Antikes": "False",
-                        "vk_BabyKinderkleidung": "True",
-                        "vk_Spielzeug": "True",
-                        "vk_Buecher": "False",
-                        "vk_Elektronik": "False",
-                        "vk_Frauenkleidung": "True",
-                        "vk_HaushaltKueche": "False",
-                        "vk_Herrenkleidung": "False",
-                        "vk_Sonstiges": "False",
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.360673573155525, 53.41580010895047] } },
                         
                         { "type": "Feature",
 						"properties": { 
