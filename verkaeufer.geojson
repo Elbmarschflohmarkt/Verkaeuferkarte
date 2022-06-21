@@ -1447,15 +1447,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.412112309922945, 53.39584683442412] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 151, 
-						"Adresse": " Oldershausener Hauptstraße 6B", 
-						"Verkauft": " Bücher, Frauenkleidung",  
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.335302204365494, 53.364600044649684] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -3643,6 +3634,101 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.31891683483179, 53.42735882285401] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 271, 
+						"Adresse": " Gartenweg 19", 
+						"Verkauft": " Bücher, Elektronik, Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Blumentöpfe innen /außen",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.417367739617362, 53.389201351692286] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 272, 
+						"Adresse": " Drennhäuser Weg 2A", 
+						"Verkauft": " Baby-/Kinderkleidung, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.271796938624204, 53.41764972588478] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 273, 
+						"Adresse": " Wiesenstraße 10", 
+						"Verkauft": " Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.413613865079068, 53.39693585622463] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 274, 
+						"Adresse": " Elbstorfer Str 78", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Haushaltsgeräte/Küche",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " BIG Trettrecker + Güllefass, Ranzen, Reisebett, Fahrrad, Tapete Feuerwehrmann Sam, Schuhe, Schaukelstuhl, nintendo Spiel, CD, DVD",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.292483293882269, 53.420708808700276] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 275, 
+						"Adresse": " Im Westerfeld 21", 
+						"Verkauft": " Antikes, Bücher, Sonstiges",
+                        "vk_Antikes": "True",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " KOFFER RADIO, Uhren ,Geschirr ,Gläser  Kristallschallen diverse andere Sachen",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.401120271969075, 53.40435522703574] } },
                         
 					]
 			}
