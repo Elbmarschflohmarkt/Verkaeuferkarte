@@ -3765,7 +3765,7 @@ var data = {
                         "vk_HaushaltKueche": "False",
                         "vk_Herrenkleidung": "False",
                         "vk_Sonstiges": "True",
-						"Nachricht": " 2 Mädchen Fahrräder 26"",
+						"Nachricht": "2 Mädchen Fahrräder 26 Zoll",
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.339282931718568, 53.364837389449505] } },
@@ -3822,7 +3822,7 @@ var data = {
                         "vk_HaushaltKueche": "False",
                         "vk_Herrenkleidung": "False",
                         "vk_Sonstiges": "True",
-						"Nachricht": " Angelsachen / Werkzeug u. Zubehör /Auto-Fahrradträger /",
+						"Nachricht": " Angelsachen, Werkzeug u. Zubehör, Auto-Fahrradträger ",
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.411167869757314, 53.3731895283694] } },
