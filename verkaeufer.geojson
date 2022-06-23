@@ -1574,7 +1574,8 @@ var data = {
 						"Nachricht": " ",
 						"Ueberdacht": "Nein"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.37863897094406, 53.41491633266788] } },
+                        "geometry": { "type": "Point", "coordinates": [10.449578082512375, 53.38739867481379] } },
+                    
                         
                         { "type": "Feature",
 						"properties": { 
@@ -1671,24 +1672,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.419953624191534, 53.3933068028032] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 167, 
-						"Adresse": " Elbuferstraße 181a", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher",
-                        "vk_Antikes": "False",
-                        "vk_BabyKinderkleidung": "True",
-                        "vk_Spielzeug": "True",
-                        "vk_Buecher": "False",
-                        "vk_Elektronik": "False",
-                        "vk_Frauenkleidung": "False",
-                        "vk_HaushaltKueche": "False",
-                        "vk_Herrenkleidung": "False",
-                        "vk_Sonstiges": "False",
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.408161180204592, 53.40389210724335] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -3845,5 +3828,62 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.374487981253084, 53.41628712679337] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 284, 
+						"Adresse": " Neuer Hagen 32", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.358396793273952, 53.4176258133757] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 285, 
+						"Adresse": " Weidenring 5", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Herrenkleidung",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.41690263309461, 53.392894808622174] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 286, 
+						"Adresse": " Am Redder 40", 
+						"Verkauft": " Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.33104620752927, 53.41419141052549] } },
 					]
 			}
