@@ -238,15 +238,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.353075549476028, 53.4156939906725] } },
 						
-						{ "type": "Feature",
-						"properties": { 
-						"id": 25, 
-						"Adresse": " Schwinder Straße 11", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Sonstiges",  
-						"Nachricht": "",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.31892009433459, 53.42732313520846] } },
 						
 						{ "type": "Feature",
 						"properties": { 
@@ -453,16 +444,6 @@ var data = {
                         
                         { "type": "Feature",
 						"properties": { 
-						"id": 49, 
-						"Adresse": " Deichstr. West 4a", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.336916250118906, 53.41928345799376] } },
-                        
-                        { "type": "Feature",
-						"properties": { 
 						"id": 50, 
 						"Adresse": " Veilchenweg 12", 
 						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
@@ -613,15 +594,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.360594837386904, 53.41477873433894] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 67, 
-						"Adresse": " Brackweg 20", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",  
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.38578792499777, 53.410659068642815] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -1437,15 +1409,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.25501582833017, 53.406678470255635] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 150, 
-						"Adresse": " Wiesenstr. 3", 
-						"Verkauft": " Bücher, Frauenkleidung, Sonstiges",  
-						"Nachricht": " ",
-						"Ueberdacht": "Nein"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.412112309922945, 53.39584683442412] } },
                         
                         
                         { "type": "Feature",
@@ -1907,25 +1870,6 @@ var data = {
                         
                         { "type": "Feature",
 						"properties": { 
-						"id": 180, 
-						"Adresse": " An Storchenneest 37", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Herrenkleidung",
-                        "vk_Antikes": "False",
-                        "vk_BabyKinderkleidung": "True",
-                        "vk_Spielzeug": "True",
-                        "vk_Buecher": "False",
-                        "vk_Elektronik": "False",
-                        "vk_Frauenkleidung": "True",
-                        "vk_HaushaltKueche": "False",
-                        "vk_Herrenkleidung": "True",
-                        "vk_Sonstiges": "False",
-						"Nachricht": " ",
-						"Ueberdacht": "Nein"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.42355726321674, 53.38987403317885] } },
-                        
-                        { "type": "Feature",
-						"properties": { 
 						"id": 181, 
 						"Adresse": " An Storchenneest 35", 
 						"Verkauft": " Spielzeug, Frauenkleidung, Herrenkleidung, Sonstiges",
@@ -2269,24 +2213,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.346167793169036, 53.418398784924555] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 201, 
-						"Adresse": " Am Deich 15a", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Frauenkleidung, Herrenkleidung, Sonstiges",
-                        "vk_Antikes": "False",
-                        "vk_BabyKinderkleidung": "True",
-                        "vk_Spielzeug": "True",
-                        "vk_Buecher": "False",
-                        "vk_Elektronik": "False",
-                        "vk_Frauenkleidung": "True",
-                        "vk_HaushaltKueche": "False",
-                        "vk_Herrenkleidung": "True",
-                        "vk_Sonstiges": "True",
-						"Nachricht": " ",
-						"Ueberdacht": "Nein"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.373431364899908, 53.416242008855534] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -3563,24 +3489,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.36751246177911, 53.41721748996823] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 270, 
-						"Adresse": " Schwinder Str. 11", 
-						"Verkauft": " Antikes, Spielzeug, Sonstiges",
-                        "vk_Antikes": "True",
-                        "vk_BabyKinderkleidung": "False",
-                        "vk_Spielzeug": "True",
-                        "vk_Buecher": "False",
-                        "vk_Elektronik": "False",
-                        "vk_Frauenkleidung": "False",
-                        "vk_HaushaltKueche": "False",
-                        "vk_Herrenkleidung": "False",
-                        "vk_Sonstiges": "True",
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.31891683483179, 53.42735882285401] } },
                         
                         { "type": "Feature",
 						"properties": { 
