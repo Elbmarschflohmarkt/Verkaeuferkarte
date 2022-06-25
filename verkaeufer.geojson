@@ -514,15 +514,6 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.352238347159943, 53.41681921971387] } },
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 59, 
-						"Adresse": " Elbuferstraße 227", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Haushaltsgeräte/Küche, Herrenkleidung",  
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.335791496921882, 53.41908882208047] } },
                         
                         { "type": "Feature",
 						"properties": { 
@@ -1557,7 +1548,8 @@ var data = {
 						"Nachricht": " ",
 						"Ueberdacht": "Nein"
 						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.364348526721697, 53.418747255274404] } },
+                        "geometry": { "type": "Point", "coordinates": [10.426764325082216, 53.39333037695328] } },
+                    
                         
                         { "type": "Feature",
 						"properties": { 
@@ -2193,25 +2185,7 @@ var data = {
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.410515333074189, 53.39660875748227] } },
                         
-                        
-                        { "type": "Feature",
-						"properties": { 
-						"id": 200, 
-						"Adresse": " Elbuferstr 166b", 
-						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Elektronik, Sonstiges",
-                        "vk_Antikes": "False",
-                        "vk_BabyKinderkleidung": "True",
-                        "vk_Spielzeug": "True",
-                        "vk_Buecher": "False",
-                        "vk_Elektronik": "True",
-                        "vk_Frauenkleidung": "False",
-                        "vk_HaushaltKueche": "False",
-                        "vk_Herrenkleidung": "False",
-                        "vk_Sonstiges": "True",
-						"Nachricht": " ",
-						"Ueberdacht": "Nein"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.346167793169036, 53.418398784924555] } },
+                    
                         
                         
                         { "type": "Feature",
@@ -3793,5 +3767,176 @@ var data = {
 						"Ueberdacht": "Nein"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.33104620752927, 53.41419141052549] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 287, 
+						"Adresse": " Bütlinger Straße 37", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Haushaltsgeräte/Küche, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.410348103852538, 53.3721632821435] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 288, 
+						"Adresse": " Werderweg 2", 
+						"Verkauft": " Bücher, Frauenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " Deko artikel, Porzellan, Gläser und Diverses. Der Stand befindet sich auf der Rasenfläche vorm Haus oder auf der Auffahrt.",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.259424756326755, 53.41110882754832] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 289, 
+						"Adresse": " Elbuferstraße 107", 
+						"Verkauft": " Spielzeug, Bücher, Elektronik, Frauenkleidung",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "True",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.426334879820217, 53.392485103354375] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 290, 
+						"Adresse": " Wennerweg 18", 
+						"Verkauft": " Spielzeug, Bücher",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.352033780299557, 53.416146151790244] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 291, 
+						"Adresse": " Drennhäuser Weg 2b", 
+						"Verkauft": " Baby-/Kinderkleidung, Spielzeug, Bücher, Frauenkleidung",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "True",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " ",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.271722279400983, 53.417689246729616] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 292, 
+						"Adresse": " Deichstraße Ost 1b", 
+						"Verkauft": " Bücher, Frauenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.346186595245229, 53.41875001685696] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 293, 
+						"Adresse": " Meyns Hof 19m", 
+						"Verkauft": " Baby-/Kinderkleidung, Bücher",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "True",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " Kinderkoffer, Kinderfahrrad, Mitwachsstuhl",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.314959043409853, 53.422461724707354] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 294, 
+						"Adresse": " Elbdeich 30a", 
+						"Verkauft": " Bücher, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " CDs, Kinderspiele, DVDs, Videos",
+						"Ueberdacht": "Nein"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.260791546099004, 53.41241677717136] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 295, 
+						"Adresse": " Im Dorfe 9", 
+						"Verkauft": " Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.390363787179203, 53.40830904410593] } },
 					]
 			}
