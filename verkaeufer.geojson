@@ -3939,5 +3939,43 @@ var data = {
 						"Ueberdacht": "Ja"
 						}, 
                         "geometry": { "type": "Point", "coordinates": [10.390363787179203, 53.40830904410593] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 296, 
+						"Adresse": " Deichstraße 1B", 
+						"Verkauft": " Bücher",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "False",
+                        "vk_HaushaltKueche": "False",
+                        "vk_Herrenkleidung": "False",
+                        "vk_Sonstiges": "False",
+						"Nachricht": " Autofelgen, Blumenkübel",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.346657854253934, 53.41876579969653] } },
+                        
+                        { "type": "Feature",
+						"properties": { 
+						"id": 297, 
+						"Adresse": " Deichstr. 1b", 
+						"Verkauft": " Frauenkleidung, Haushaltsgeräte/Küche, Herrenkleidung, Sonstiges",
+                        "vk_Antikes": "False",
+                        "vk_BabyKinderkleidung": "False",
+                        "vk_Spielzeug": "False",
+                        "vk_Buecher": "False",
+                        "vk_Elektronik": "False",
+                        "vk_Frauenkleidung": "True",
+                        "vk_HaushaltKueche": "True",
+                        "vk_Herrenkleidung": "True",
+                        "vk_Sonstiges": "True",
+						"Nachricht": " ",
+						"Ueberdacht": "Ja"
+						}, 
+                        "geometry": { "type": "Point", "coordinates": [10.345966355099149, 53.41871414370863] } },
 					]
 			}
