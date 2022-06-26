@@ -46,8 +46,8 @@ var data = {
 						"properties": { 
 						"id": 5, 
 						"Adresse": "Am Deich 20", 
-						"Verkauft": " Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges",  
-						"Nachricht": "  Kleidung in großen Damengrößen",
+						"Verkauft": " Spielzeug, Bücher, Frauenkleidung, Haushaltsgeräte/Küche, Sonstiges, Baby-/Kinderkleidung",  
+						"Nachricht": "  Kleidung in großen Damengrößen, Fahrrad, Babybett, Kinderwagen, Blutdruckmessgerät",
 						"Ueberdacht": "Ja"
 						}, 
 						"geometry": { "type": "Point", "coordinates": [ 10.374581229829, 53.416371418124 ] } },
