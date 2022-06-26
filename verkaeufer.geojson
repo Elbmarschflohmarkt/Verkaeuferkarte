@@ -1861,24 +1861,7 @@ var data = {
                         "geometry": { "type": "Point", "coordinates": [10.361902631756374, 53.417995293039894] } },
                         
                         
-                        { "type": "Feature",
-						"properties": { 
-						"id": 181, 
-						"Adresse": " An Storchenneest 35", 
-						"Verkauft": " Spielzeug, Frauenkleidung, Herrenkleidung, Sonstiges",
-                        "vk_Antikes": "False",
-                        "vk_BabyKinderkleidung": "False",
-                        "vk_Spielzeug": "True",
-                        "vk_Buecher": "False",
-                        "vk_Elektronik": "False",
-                        "vk_Frauenkleidung": "True",
-                        "vk_HaushaltKueche": "False",
-                        "vk_Herrenkleidung": "True",
-                        "vk_Sonstiges": "True",
-						"Nachricht": " ",
-						"Ueberdacht": "Ja"
-						}, 
-                        "geometry": { "type": "Point", "coordinates": [10.42385399006971, 53.38970286140396] } },
+                    
                         
                         { "type": "Feature",
 						"properties": { 
